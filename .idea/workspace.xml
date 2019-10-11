@@ -1,0 +1,1689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f335f8ae-d230-48f3-a41e-2639a46b6170" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aa/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cc/.idea/artifacts/cc_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cc/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cc/src/main/scala/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cc/src/main/scala/WordCount.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kafkaproject/HdfsWrit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sg/HadoopTy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/hivepack/DocFileInputFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/hivepack/DocFileOutputFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/hivepack/DocRecorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/hivepack/DocWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/myfun/GenericUDAFHistogramNumericEvaluator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/myfun/MyHi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/myhive/Stp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/myhive/TestDeserializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/myhive/TestJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/myhive/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegenextHadoop/src/main/java/file/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegenextHadoop/src/main/java/spark/JavaWrodCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/Abs/BoonWind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/Abs/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/Abs/Ones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/Abs/Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/Abs/TestTmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/Abs/Twos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/Abs/Wind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/JVM/ClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/JVM/TestGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/JVM/TestSystemProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/Variab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/LinkedList/FindCommonNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/LinkedList/FindLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/LinkedList/LeetcodeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/LinkedList/ListLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/LinkedList/MergeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/LinkedList/Solutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/Matrix/PrintMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/array/CheckMul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/array/GetMul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/array/GetSingleNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/array/MulArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/array/Solutaion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/array/TestBool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/array/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/binary/BinaryCal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/dp/Dp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/dp/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/dp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/dp/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/fenzhi/Fenzhi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/heap/MinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/AddSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/CalNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/CheckNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/CompareClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/DoAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/FrontN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/GetNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/Num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/Paper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/ReverseNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/SingleNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/offer/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/search/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/sort/GetTopN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/sort/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/sort/SubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/sort/mergesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/stack/JudgeStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/stack/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/str/CicleStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/str/FindStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/str/JudgeStrIsNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/str/ReverseStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/str/StrMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/str/StrPailie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/str/StrSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/str/TransfromStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/CheckBaskendTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/CheckIsRepeatedTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/CheckTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/ComBinTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/GetBinaryTreeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/GetTreedepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/MiddleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/MirrorBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/NextNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/PrintBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/PrintTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/SerizalBinaryTre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/Solutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/Topk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/TransfromTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/ZTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algorepeat/LinkedList/LinkedListAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algorepeat/str/Str.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algorepeat/tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/classloader/ClassUseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/classloader/LoadClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/classloader/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/classloader/SingleTon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/classloader/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/TestHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/TestList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/TestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/TestStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/Tp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/TreeSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/map/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/my/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/my/MyIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/my/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/my/TestLinkedListAndArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/set/TestHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/compare/Comp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/compare/GetPerimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/compare/ShapeComparaotr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/datatype/CharToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/datatype/DataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/datatype/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/equal/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/file/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/file/packagedescription" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/finalkeyword/FinalKeyWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/finalkeyword/SonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/Alarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/FireDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/FirstInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/MyInterfaceImplements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/MyReadable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/NormalDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/RootInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/SecRootInferface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/SomeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/SomeInferface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/nextinterface/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/nextinterface/Four.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/nextinterface/Mul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/nextinterface/Pology.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/nextinterface/SInple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/nextinterface/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/nextinterface/SimpleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/nextinterface/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/nextinterface/Third.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/Cc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/Inter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/Ints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/Intt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/Sim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/Some.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/Ssinterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/jdbc/DataBaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/list/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/list/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/AbstractClass/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/JNC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/TestAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/TestWine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/Wine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/InnerClassCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/InnerClassTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/MethodInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/NoNameClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/Selector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/Str.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/TestInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/factory/FactoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/factory/GameService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/factory/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/mymath/Matha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/properties/PropertiesUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/ALiPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/Meituan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/ReflectAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/TestReflect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/WeChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflection/Persion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/socket/SocketClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/socket/SocketServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/socket/packagedescription" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/str/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/str/StrTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/str/StringBufferTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/str/StringBuilderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/str/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/str/TestPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/utils/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/generalJava/NoNameDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/generalJava/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/adapter/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/adapter/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/adapter/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/adapter/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/adapter/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/adapter/RunMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/adapter/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/factory/CheerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/factory/CheerGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/factory/ChersFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/factory/ChersGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/factory/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/factory/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/consumer/ConsumerUseReblance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/consumer/KfkConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/consumer/Listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/consumer/StandAloneConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/offset/KafkaOffset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/offset/KafkaOffsetManager.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/producer/Kproducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/producer/partitioner/DefinePartitioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/producer/serizer/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/producer/serizer/CustomerSerizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/myutils/fileutils/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/org/apache/spark/streaming/kafka/KafkaManager.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/scala/common/option/OptionTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/core/Clousure.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/core/JavaWrodCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/core/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/core/SecSort.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/core/TestSortBy.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/core/WordCount.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/package.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/sparkmllib/ALSRecommendMllibBestParamTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/sparkmllib/ItemCf.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/sparkmllib/UserCf.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/sparksql/WindowFunction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/streaming/MapWtithState.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/streaming/TransformDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/streaming/WordCountUseMapWithState.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/testjava/TeByte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/testjava/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/testjava/TryFan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/UnLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/corr/AbstractExecutorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/corr/DefineExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/corr/Dexecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/corr/MyExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/corr/MyExecutorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/activeobject/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/balking/BalkingData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/balking/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/countdown/CountClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/countdown/CountDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/countdown/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/future/AcyncFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/future/Future.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/future/FutureClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/future/FutureService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/future/FutureTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/future/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/guardsuspension/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/guardsuspension/RequestQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/guardsuspension/SuspensionClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/guardsuspension/ThreadClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/guardsuspension/ThreadServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/guardsuspension/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/immuobject/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/observer/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/observer/ObServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/observer/ObserverClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/observer/TenObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/producerconsumer/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/producerconsumer/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/producerconsumer/MessageQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/producerconsumer/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/producerconsumer/ProducerAndConsumerClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/producerconsumer/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/readwriteleave/ReadWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/readwriteleave/ReadWriteLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/readwriteleave/ShareResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/readwriteleave/ThreadClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/readwriteleave/WriterWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/single/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/single/Gate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/single/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/single/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/ThreadLocalSimilar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/ThreadLocalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context/ContextCLient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context/ExecutionTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context/QueryFromDb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context/QueryFromHttp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context1/ApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context1/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context1/ContextCLient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context1/ExecutionTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context1/QueryFromDb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context1/QueryFromHttp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/twopraphthread/CounterThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/twopraphthread/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/twopraphthread/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/workthread/Channel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/workthread/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/workthread/ThreadClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/workthread/TransportThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/workthread/WorkThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/workthread/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/multithread/WorkRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/multithread/WorkThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/single/Single.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/single/Single2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/single/Single3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/single/Single4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/single/Single5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/single/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/single/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/threadpool/SimpleThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/vola/VolatileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/waitset/WaitSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadGroup/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadGroup/TryThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadhook/DealThreadExceptoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadhook/Exec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/MultiMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/OptionalTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/TestJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/ThreadGg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/ThreadInterrupt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/ThreadIntru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/ThreadJoinTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/ThreadTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/ThreadUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/TickWindowRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/TicketWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/TryThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/lock/BooleanLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/lock/Lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/lock/SychronizedQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/lock/TestDIYLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/produceComsumer/DifferenceOfWaitAndSleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/produceComsumer/ProComV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/produceComsumer/ProCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/produceComsumer/ReaLproductExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/stopthread/StopThreadGood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/stopthread/TestJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/stopthread/TestThrad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/stopthread/ThreadService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/sychronizedpac/ClassSyc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/sychronizedpac/SychStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/topologTry/TryPology.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/tryhadoop/LoadResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/tryhadoop/ReadHadoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/tryhadoop/ReadOrigin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/tryhadoop/ReadTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/tryhadoop/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/tryhadoop/a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/resources/core-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/resources/properties.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecshop/eshop/src/main/java/eshop/service/BaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ff/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ff/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ff/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ff/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ff/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ff/ff.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ff/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ff/src/main/java/One.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfi/myfi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfi/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salaa/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salaa/src/main/java/One.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scal/A.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sd/A.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdd/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdd/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdd/src/main/scala/Some.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tui/src/main/scala/te/TestZookeeper.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tui/src/main/scala/te/TrainModel2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tui/src/main/scala/te/WordCountS.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yuege/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yuege/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn/shi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../learn/shi.txt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="247301963">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="82" />
+          <entry key="project.open.time.0" value="9" />
+          <entry key="project.open.time.1" value="20" />
+          <entry key="project.open.time.10" value="4" />
+          <entry key="project.open.time.100" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.159" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.37" value="3" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="4" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.41" value="2" />
+          <entry key="project.open.time.42" value="5" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.45" value="3" />
+          <entry key="project.open.time.46" value="2" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.81" value="1" />
+          <entry key="project.open.time.9" value="5" />
+          <entry key="project.opened" value="82" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="avsc" value="11" />
+          <entry key="dummy" value="32" />
+          <entry key="java" value="50309" />
+          <entry key="xml" value="224" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="50309" />
+          <entry key="PLAIN_TEXT" value="43" />
+          <entry key="XML" value="224" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="avsc" value="4" />
+          <entry key="class" value="36" />
+          <entry key="java" value="1431" />
+          <entry key="part-r-00000" value="22" />
+          <entry key="part-r-00001" value="1" />
+          <entry key="properties" value="4" />
+          <entry key="xml" value="62" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="36" />
+          <entry key="JAVA" value="1431" />
+          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="Properties" value="4" />
+          <entry key="XML" value="62" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="comyuegehadoopfirst" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BigTableJoin/BigGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BigTableJoin/BigMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/wordcount/MapCl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BigTableJoin/BigJoinApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-288">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BigTableJoin/BigPartitioner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1-sources.jar!/org/apache/hadoop/mapreduce/Partitioner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="828">
+              <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1-sources.jar!/org/apache/hadoop/mapreduce/lib/partition/HashPartitioner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>r</find>
+      <find>compressorPool</find>
+      <find>w</find>
+      <find>jobConf</find>
+      <find>test</find>
+      <find>v</find>
+      <find>getProtocolProxy</find>
+      <find>addInputPath</find>
+      <find>FileInputFormat</find>
+      <find>writer</find>
+      <find>write</find>
+      <find>submit</find>
+      <find>run</find>
+      <find>limit</find>
+      <find>getOutputKeyCom</find>
+      <find>AsyncDis</find>
+      <find>main</find>
+      <find>addCacheFi</find>
+      <find>addM</find>
+      <find>comparaTo</find>
+      <find>TOaRRAY</find>
+      <find>MONTH</find>
+      <find>runNewMapper</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/bbjoin/BBReduce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/singlecomputer/SingleFriend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/singlecomputer/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/calculateFriends/CalReuduce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/calculateFriends/CalMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/calculateFriends/CalDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/seccalculatefriend/SecCalMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/seccalculatefriend/SecCalDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/seccalculatefriend/SecCalReduce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/singlecomputer/SingleFriendsTwo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/math/minnum/goodmidd/GoodKey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sg/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/math/minnum/goodmidd/GoodDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/math/minnum/goodmidd/GoodMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/math/minnum/goodmidd/GoodCombiner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/math/minnum/MiddleDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/math/minnum/MiddleMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/math/minnum/MiddleReduce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/math/minnum/goodmidd/GoodReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/topn/TopnMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/topn/TopnComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/topn/TopnReduce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/topn/TopnDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myinputformat/MyRecorder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myinputformat/MyApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myinputformat/MyInputFormat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hadoopetl/EtlUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hadoopetl/ETlMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hadoopetl/ETLDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mykafka/mypartitioner/MyPartitioner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mykafka/mypartitioner/KafkaConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mykafka/mypartitioner/PartitionerProducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mykafka/mypartitioner/KConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mykafka/mypartitioner/TmpConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mykafka/mypartitioner/MyConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafkaproject/MyConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafkaproject/ReadHdfs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafkaproject/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafkaproject/HdfsWrit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafkaproject/ClosePool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafkaproject/StringUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafkaproject/HdfsPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafkaproject/RawConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafkaproject/Tt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafkaproject/CleanedConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafkaproject/AppConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Flow/FlowSortDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FlowSort/FlowDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wordcount/MyContainer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wordcount/MapCl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\codefile\maven" />
+        <option name="userSettingsFile" value="D:\codetl\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com.yuege.hadoopfirst" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="750" />
+    <option name="height" value="590" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="comyuegehadoopfirst" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comyuegehadoopfirst" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comyuegehadoopfirst" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comyuegehadoopfirst" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comyuegehadoopfirst" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comyuegehadoopfirst" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comyuegehadoopfirst" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comyuegehadoopfirst" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comyuegehadoopfirst" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comyuegehadoopfirst" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BigTableJoin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comyuegehadoopfirst" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comyuegehadoopfirst" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wordcount" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="MapTask&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1.jar!/org/apache/hadoop/mapred/MapTask.class&#10;TextInputFo&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1-sources.jar!/org/apache/hadoop/mapred/TextInputFormat.java&#10;HashPa&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1.jar!/org/apache/hadoop/mapred/lib/HashPartitioner.class&#10;Text&#9;null&#9;null&#10;jobcontro&#9;PSI&#9;JAVA://org.apache.hadoop.mapreduce.lib.jobcontrol.JobControl&#10;JobContr&#9;PSI&#9;JAVA://org.apache.hadoop.mapred.jobcontrol.JobControl&#10;DbWritable&#9;PSI&#9;JAVA://org.apache.hadoop.mapred.lib.db.DBWritable&#10;MapContext&#9;PSI&#9;JAVA://org.apache.hadoop.mapreduce.MapContext&#10;Mapper&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1.jar!/org/apache/hadoop/mapred/Mapper.class&#10;Context&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1-sources.jar!/org/apache/hadoop/mapreduce/JobContext.java&#10;FileSplit&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1.jar!/org/apache/hadoop/mapred/FileSplit.class&#10;FileSystem&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-common/2.6.1/hadoop-common-2.6.1.jar!/org/apache/hadoop/fs/FileSystem.class&#10;Configured&#9;PSI&#9;JAVA://org.apache.hadoop.hdfs.server.namenode.ha.ConfiguredFailoverProxyProvider&#10;ChainReduce&#9;PSI&#9;JAVA://org.apache.hadoop.mapreduce.lib.chain.ChainReducer&#10;ChainMa&#9;PSI&#9;JAVA://org.apache.hadoop.mapreduce.lib.chain.ChainMapper&#10;Distributedc&#9;PSI&#9;JAVA://org.apache.hadoop.filecache.DistributedCache&#10;InputSample&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1-sources.jar!/org/apache/hadoop/mapreduce/lib/partition/InputSampler.java&#10;TotalOrder&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1-sources.jar!/org/apache/hadoop/mapreduce/lib/partition/TotalOrderPartitioner.java&#10;TotalO&#9;PSI&#9;JAVA://org.apache.hadoop.mapreduce.lib.partition.TotalOrderPartitioner&#10;Sampler&#9;PSI&#9;JAVA://org.apache.hadoop.mapred.lib.InputSampler.Sampler&#10;InputSampler&#9;PSI&#9;JAVA://org.apache.hadoop.mapred.lib.InputSampler&#10;RawCom&#9;PSI&#9;JAVA://org.apache.hadoop.io.RawComparator&#10;Asyn&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-yarn-common/2.6.0/hadoop-yarn-common-2.6.0-sources.jar!/org/apache/hadoop/yarn/event/AsyncDispatcher.java&#10;ResourceManager&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-yarn-server-resourcemanager/2.6.0/hadoop-yarn-server-resourcemanager-2.6.0-sources.jar!/org/apache/hadoop/yarn/server/resourcemanager/ResourceManager.java&#10;RMAppE&#9;PSI&#9;JAVA://org.apache.hadoop.yarn.server.resourcemanager.rmapp.RMAppEvent&#10;NodeManager&#9;PSI&#9;JAVA://org.apache.hadoop.yarn.server.nodemanager.NodeManager&#10;ApplicationMaster&#9;PSI&#9;JAVA://org.apache.hadoop.yarn.server.resourcemanager.amlauncher.ApplicationMasterLauncher&#10;DBOutp&#9;PSI&#9;JAVA://org.apache.hadoop.mapreduce.lib.db.DBOutputFormat&#10;LocalJobRunner&#9;PSI&#9;JAVA://org.apache.hadoop.mapred.LocalJobRunner&#10;TextOutputFo&#9;PSI&#9;JAVA://org.apache.hadoop.mapreduce.lib.output.TextOutputFormat&#10;FIleOutputFo&#9;PSI&#9;JAVA://org.apache.hadoop.mapreduce.lib.output.FileOutputFormat&#10;OutputFor&#9;PSI&#9;JAVA://org.apache.hadoop.mapreduce.OutputFormat&#10;OutputWriter&#9;PSI&#9;JAVA://org.mortbay.jetty.AbstractGenerator.OutputWriter&#10;DbIn&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0/hadoop-mapreduce-client-core-2.6.0-sources.jar!/org/apache/hadoop/mapreduce/lib/db/DBInputFormat.java&#10;DbInputFor&#9;PSI&#9;JAVA://org.apache.hadoop.mapreduce.lib.db.DBInputFormat&#10;DBIn&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0/hadoop-mapreduce-client-core-2.6.0-sources.jar!/org/apache/hadoop/mapreduce/lib/db/DBInputFormat.java&#10;NLine&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0/hadoop-mapreduce-client-core-2.6.0-sources.jar!/org/apache/hadoop/mapreduce/lib/input/NLineInputFormat.java&#10;SequenceFileAs&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0/hadoop-mapreduce-client-core-2.6.0-sources.jar!/org/apache/hadoop/mapreduce/lib/input/SequenceFileAsTextInputFormat.java&#10;SequenceFileInputFormat&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0/hadoop-mapreduce-client-core-2.6.0-sources.jar!/org/apache/hadoop/mapreduce/lib/input/SequenceFileInputFormat.java&#10;SequenceF&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0/hadoop-mapreduce-client-core-2.6.0-sources.jar!/org/apache/hadoop/mapreduce/lib/input/SequenceFileRecordReader.java&#10;BinaryInputF&#9;PSI&#9;JAVA://org.apache.hadoop.mapreduce.lib.input.SequenceFileAsBinaryInputFormat&#10;NLineInputFor&#9;PSI&#9;JAVA://org.apache.hadoop.mapreduce.lib.input.NLineInputFormat&#10;KeyValueTextIn&#9;PSI&#9;JAVA://org.apache.hadoop.mapreduce.lib.input.KeyValueTextInputFormat&#10;KeyValueTe&#9;PSI&#9;JAVA://org.apache.hadoop.mapred.KeyValueTextInputFormat&#10;TextK&#9;PSI&#9;JAVA://com.sun.javafx.scene.control.skin.FXVKSkin.TextInputKey&#10;LineRec&#9;PSI&#9;JAVA://org.apache.hadoop.mapreduce.lib.input.LineRecordReader&#10;TextInputFor&#9;PSI&#9;JAVA://org.apache.hadoop.mapreduce.lib.input.TextInputFormat&#10;FileInput&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0/hadoop-mapreduce-client-core-2.6.0-sources.jar!/org/apache/hadoop/mapreduce/lib/input/SequenceFileInputFormat.java&#10;TextInputF&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0/hadoop-mapreduce-client-core-2.6.0-sources.jar!/org/apache/hadoop/mapred/TextInputFormat.java&#10;FileInputFormat&#9;FILE&#9;jar://D:/codefile/maven/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0/hadoop-mapreduce-client-core-2.6.0-sources.jar!/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566433445944" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/sd" />
+    <property name="last_opened_file_path" value="D:/codetl/hadoop/hadoop-2.6.1/share/hadoop" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="hadoop_try" />
+      <recent name="sd" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\codefile\comyuegehadoopfirst\src\main\avro" />
+      <recent name="D:\codefile\comyuegehadoopfirst\src\main\resources" />
+      <recent name="D:\codefile\comyuegehadoopfirst\src\main\java\wordcount" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="kafkaproject" />
+      <recent name="SeqInputFormat" />
+      <recent name="nlineInput" />
+      <recent name="hadoop_try" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codefile\comyuegehadoopfirst\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AppConsumer">
+    <configuration name="AppConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafkaproject.AppConsumer" />
+      <module name="comyuegehadoopfirst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafkaproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RawConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafkaproject.RawConsumer" />
+      <module name="comyuegehadoopfirst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafkaproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadHdfs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafkaproject.ReadHdfs" />
+      <module name="comyuegehadoopfirst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafkaproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafkaproject.Test" />
+      <module name="comyuegehadoopfirst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafkaproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafkaproject.Tt" />
+      <module name="comyuegehadoopfirst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafkaproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mm" type="Remote" factoryName="Remote">
+      <module name="comyuegehadoopfirst" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="192.168.249.10" />
+      <option name="PORT" value="8000" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8000" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Remote.mm" />
+      <item itemvalue="Application.RawConsumer" />
+      <item itemvalue="Application.ReadHdfs" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.AppConsumer" />
+      <item itemvalue="Application.Tt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppConsumer" />
+        <item itemvalue="Application.Tt" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.RawConsumer" />
+        <item itemvalue="Application.ReadHdfs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f335f8ae-d230-48f3-a41e-2639a46b6170" name="Default Changelist" comment="" />
+      <created>1551595462753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551595462753</updated>
+      <workItem from="1551595466284" duration="3772000" />
+      <workItem from="1551601173156" duration="989000" />
+      <workItem from="1551602204597" duration="519000" />
+      <workItem from="1551602774225" duration="83000" />
+      <workItem from="1551602896680" duration="1915000" />
+      <workItem from="1551609225622" duration="2310000" />
+      <workItem from="1551864043581" duration="1425000" />
+      <workItem from="1551882718191" duration="7480000" />
+      <workItem from="1552041102302" duration="23000" />
+      <workItem from="1552041374041" duration="11000" />
+      <workItem from="1552041401919" duration="13000" />
+      <workItem from="1552041473283" duration="103000" />
+      <workItem from="1552041810570" duration="491000" />
+      <workItem from="1552042344761" duration="30000" />
+      <workItem from="1552129811806" duration="1456000" />
+      <workItem from="1552131294300" duration="3656000" />
+      <workItem from="1552183429921" duration="9603000" />
+      <workItem from="1552229640972" duration="3950000" />
+      <workItem from="1552279985245" duration="3088000" />
+      <workItem from="1552384435145" duration="6119000" />
+      <workItem from="1552441278608" duration="20943000" />
+      <workItem from="1552491781055" duration="429000" />
+      <workItem from="1552539938745" duration="13352000" />
+      <workItem from="1552651314195" duration="390000" />
+      <workItem from="1552657163081" duration="3400000" />
+      <workItem from="1552712749281" duration="18271000" />
+      <workItem from="1552786115619" duration="12847000" />
+      <workItem from="1552815525780" duration="15000" />
+      <workItem from="1552827438225" duration="4794000" />
+      <workItem from="1552833850082" duration="3422000" />
+      <workItem from="1552871568110" duration="1387000" />
+      <workItem from="1552873781284" duration="3996000" />
+      <workItem from="1552877844183" duration="4564000" />
+      <workItem from="1552887058664" duration="11430000" />
+      <workItem from="1552911009957" duration="5746000" />
+      <workItem from="1552959973134" duration="20512000" />
+      <workItem from="1553004147795" duration="901000" />
+      <workItem from="1553047605845" duration="26240000" />
+      <workItem from="1553136015850" duration="26538000" />
+      <workItem from="1553222790926" duration="5607000" />
+      <workItem from="1553250385098" duration="31352000" />
+      <workItem from="1553476659555" duration="12972000" />
+      <workItem from="1553561134550" duration="1692000" />
+      <workItem from="1553609888493" duration="663000" />
+      <workItem from="1553659747178" duration="3166000" />
+      <workItem from="1553666273365" duration="10409000" />
+      <workItem from="1553750160715" duration="17918000" />
+      <workItem from="1553821859554" duration="19077000" />
+      <workItem from="1553916206269" duration="6038000" />
+      <workItem from="1553939794523" duration="18719000" />
+      <workItem from="1554038843008" duration="638000" />
+      <workItem from="1554434427221" duration="2559000" />
+      <workItem from="1554461946157" duration="304000" />
+      <workItem from="1554815607791" duration="2133000" />
+      <workItem from="1554978583994" duration="6351000" />
+      <workItem from="1555217755080" duration="633000" />
+      <workItem from="1555419392750" duration="4110000" />
+      <workItem from="1555476675139" duration="2878000" />
+      <workItem from="1555563298933" duration="19636000" />
+      <workItem from="1555641134206" duration="4269000" />
+      <workItem from="1555757251897" duration="11932000" />
+      <workItem from="1555896613798" duration="10352000" />
+      <workItem from="1555983851463" duration="266000" />
+      <workItem from="1556547909726" duration="803000" />
+      <workItem from="1556588829527" duration="27000" />
+      <workItem from="1557287583959" duration="654000" />
+      <workItem from="1559315869280" duration="1664000" />
+      <workItem from="1563504638926" duration="656000" />
+      <workItem from="1563863497198" duration="2472000" />
+      <workItem from="1563930334918" duration="6198000" />
+      <workItem from="1564102074436" duration="876000" />
+      <workItem from="1564329135784" duration="676000" />
+      <workItem from="1564482846853" duration="1773000" />
+      <workItem from="1565838913015" duration="294000" />
+      <workItem from="1566384781523" duration="7936000" />
+      <workItem from="1567861318578" duration="46000" />
+      <workItem from="1568442143027" duration="13000" />
+      <workItem from="1569249809551" duration="626000" />
+      <workItem from="1569253316800" duration="14000" />
+      <workItem from="1569327480591" duration="1252000" />
+      <workItem from="1569334140010" duration="110000" />
+      <workItem from="1569334904842" duration="838000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Manual_container_configuration__TestHdfsByApiTest_testH - 2019.03.03 at 16h 51m 07s.xml">
+      <configuration name="Manual container configuration: TestHdfsByApiTest.testH" configurationId="ArquillianJUnit" />
+    </history-entry>
+    <history-entry file="Manual_container_configuration__TestHdfsByApiTest_testH - 2019.03.03 at 16h 51m 25s.xml">
+      <configuration name="Manual container configuration: TestHdfsByApiTest.testH" configurationId="ArquillianJUnit" />
+    </history-entry>
+    <history-entry file="Manual_container_configuration__TestHdfsByApiTest_testH - 2019.03.03 at 16h 55m 13s.xml">
+      <configuration name="Manual container configuration: TestHdfsByApiTest.testH" configurationId="ArquillianJUnit" />
+    </history-entry>
+    <history-entry file="TestHdfsByApiTest_testH - 2019.03.03 at 17h 00m 47s.xml">
+      <configuration name="TestHdfsByApiTest.testH" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestHdfsByApiTest_testH - 2019.03.03 at 17h 01m 30s.xml">
+      <configuration name="TestHdfsByApiTest.testH" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="446815000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" sideWeight="0.71914893" visible="true" weight="0.23458445" />
+      <window_info id="Favorites" order="5" sideWeight="0.5475177" side_tool="true" weight="0.18498659" />
+      <window_info id="Structure" order="6" sideWeight="0.28085107" side_tool="true" weight="0.1930295" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9177305" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6283688" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24539007" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.38723403" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32907802" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32907802" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.52340424" visible="true" weight="0.15281501" />
+      <window_info id="Favorites" order="5" sideWeight="0.6297872" side_tool="true" weight="0.13404825" />
+      <window_info id="Structure" order="6" sideWeight="0.47659576" side_tool="true" visible="true" weight="0.15281501" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.941844" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6283688" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.43120566" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.38723403" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32907802" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32907802" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.0/hadoop-common-2.6.0-sources.jar!/org/apache/hadoop/io/IntWritable.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-hdfs/2.6.0/hadoop-hdfs-2.6.0-sources.jar!/org/apache/hadoop/hdfs/server/namenode/NameNode.java</url>
+          <line>1366</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-hdfs/2.6.0/hadoop-hdfs-2.6.0-sources.jar!/org/apache/hadoop/hdfs/server/namenode/NameNode.java</url>
+          <line>1503</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-hdfs/2.6.0/hadoop-hdfs-2.6.0-sources.jar!/org/apache/hadoop/hdfs/server/namenode/NameNode.java</url>
+          <line>1369</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-hdfs/2.6.0/hadoop-hdfs-2.6.0-sources.jar!/org/apache/hadoop/hdfs/server/namenode/NameNode.java</url>
+          <line>1497</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0/hadoop-mapreduce-client-core-2.6.0-sources.jar!/org/apache/hadoop/mapred/JobConf.java</url>
+          <line>688</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0/hadoop-mapreduce-client-core-2.6.0-sources.jar!/org/apache/hadoop/mapreduce/JobSubmitter.java</url>
+          <line>641</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0/hadoop-mapreduce-client-core-2.6.0-sources.jar!/org/apache/hadoop/mapreduce/JobSubmitter.java</url>
+          <line>645</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0/hadoop-mapreduce-client-core-2.6.0-sources.jar!/org/apache/hadoop/mapreduce/JobSubmitter.java</url>
+          <line>491</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-common/2.6.0/hadoop-yarn-common-2.6.0-sources.jar!/org/apache/hadoop/yarn/event/AsyncDispatcher.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>submitJobFile</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cluster.getClient()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>JobSubmissionFiles.getStagingDir(cluster, conf)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>submitJobDir</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>checkSpecs(job)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>r</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>JobSubmissionFiles.getJobConfPath(submitJobDir)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>InetAddress.getLocalHost()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cluster.getFileSystem()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1.jar!/org/apache/hadoop/mapred/lib/HashPartitioner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Flow/MyPartitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1-sources.jar!/org/apache/hadoop/mapred/RecordReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1-sources.jar!/org/apache/hadoop/mapred/FileInputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FlowSort/FlowDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/secsort/CombineKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-965">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Flow/FlowSortDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Flow/FlowSortMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Flow/FlowSortReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1-sources.jar!/org/apache/hadoop/mapred/LineRecordReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="50" column="58" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wordcount/MyContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/secsort/SecPartitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bbjoin/BBKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1-sources.jar!/org/apache/hadoop/mapreduce/lib/output/MapFileOutputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="106" column="27" selection-start-line="106" selection-start-column="27" selection-end-line="106" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/secsort/SecApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1-sources.jar!/org/apache/hadoop/mapred/TextInputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="55" column="51" lean-forward="true" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1-sources.jar!/org/apache/hadoop/mapreduce/task/JobContextImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1-sources.jar!/org/apache/hadoop/mapreduce/JobContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.1/hadoop-common-2.6.1-sources.jar!/org/apache/hadoop/util/ReflectionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="119" column="22" selection-start-line="119" selection-start-column="22" selection-end-line="119" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1-sources.jar!/org/apache/hadoop/mapred/MapTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="699" column="14" lean-forward="true" selection-start-line="699" selection-start-column="14" selection-end-line="699" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1.jar!/org/apache/hadoop/mapred/MapTask.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1-sources.jar!/org/apache/hadoop/mapred/JobConf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="1392" column="32" selection-start-line="1392" selection-start-column="32" selection-end-line="1392" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1-sources.jar!/org/apache/hadoop/mapreduce/Job.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2486">
+          <caret line="1395" lean-forward="true" selection-start-line="1395" selection-end-line="1395" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bbjoin/MyPartitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myinputformat/MyRecorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myinputformat/MyApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/secsort/SecGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bbjoin/BBMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="22" column="56" lean-forward="true" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bbjoin/BBReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/smallbigjoin/SMJoinMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/smallbigjoin/SMJoinDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/topn/TopnMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hadoopetl/EtlUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hadoopetl/ETLDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wordcount/WordApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="37" column="39" lean-forward="true" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.1/hadoop-common-2.6.1-sources.jar!/org/apache/hadoop/io/LongWritable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SeqInputFormat/WordApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myinputformat/MyInputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multifilesoutput/MulDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/trycodec/TestCodec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="96" column="20" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bbjoin/MyGroupss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bbjoin/BBDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BigTableJoin/BigJoinKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1073">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BigTableJoin/BigPartitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1-sources.jar!/org/apache/hadoop/mapreduce/Partitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.1/hadoop-mapreduce-client-core-2.6.1-sources.jar!/org/apache/hadoop/mapreduce/lib/partition/HashPartitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BigTableJoin/BigMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wordcount/MapCl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BigTableJoin/BigJoinApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BigTableJoin/BigGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <last-edited>Manual container configuration|Manual</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>comyuegehadoopfirst</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: asm:asm:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
